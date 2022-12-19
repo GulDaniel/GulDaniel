@@ -20,6 +20,8 @@
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="git-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
      <img align="center" alt="mysql-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+     <img align="center" alt="php-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img align="center" alt="go-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: araujo.daniel1400@gmail.com">
