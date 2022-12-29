@@ -2,29 +2,31 @@
 
 <div align="center">
  
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GulDaniel&show_icons=true&&theme=aura&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GulDaniel&show_icons=true&&theme=aura&count_private=true"/>
   
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulDaniel&layout=compact&langs_count=16&theme=aura"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulDaniel&layout=compact&langs_count=16&theme=aura"/>
 </div>
 <br>
 
-<div>
+<div align="center">
     <div align="center">
-    <h1 align="center">Linguagens de programação <br>e Tecnologias</h1>
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="java-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" alt="python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" alt="bash-icon" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-    <img align="center" alt="git-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-     <img align="center" alt="mysql-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-     <img align="center" alt="php-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-    <img align="center" alt="go-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-    <img align="center" alt="rust-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
+    <img align="right" height="270" alt="code-time" src="coding.gif">
+    <h1 align="center">Linguagens de programação e<br> Tecnologias</h1>
+    <img align="center" height="40" width="50" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="java-icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" alt="python-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="40" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="40" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="40" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><br><br>
+  <img align="center" height="40" width="50" alt="bash-icon" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+    <img align="center" alt="git-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+     <img align="center" alt="mysql-icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+     <img align="center" alt="php-icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img align="center" alt="go-icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+    <img align="center" alt="rust-icon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
    </div>
-   <div align="center">
+   <div align="center"><br><br><br><br>
+   <img align="left" height="270" alt-"pc-friend src="pcfriend.gif">
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: araujo.daniel1400@gmail.com">
     <img width="30" src="gmail.svg">
@@ -33,10 +35,6 @@
     <img width="25" src="linkedin.svg">
     </a>
     </div><br><br>
-    <div align="center">
-     <img height="270" alt-"pc-friend src="pcfriend.gif">
-    <img height="270" alt="code-time" src="coding.gif">
-    </div>
 </div>
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/GulDaniel/GulDaniel/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/GulDaniel/GulDaniel/output/github-contribution-grid-snake.svg#gh-light-mode-only)
