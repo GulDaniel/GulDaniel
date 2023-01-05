@@ -1,14 +1,6 @@
 ## Olá, Daniel aqui!
 
 <div align="center">
- 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GulDaniel&show_icons=true&&theme=aura&count_private=true"/>
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulDaniel&layout=compact&langs_count=16&theme=aura"/>
-</div>
-<br>
-
-<div align="center">
     <div align="center">
     <img align="right" height="270" alt="code-time" src="coding.gif">
     <h1 align="center">Linguagens de programação e<br> Tecnologias</h1>
